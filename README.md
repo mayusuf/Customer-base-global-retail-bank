@@ -47,3 +47,12 @@ This is aggregated data, i.e. there are multiple customers per row. Dimensions t
 ### Gold product owner customers are less active in digital banking compare to bronze and silver product owner whether Gold is highest revenue generator
 
 ![digital](reports/7.png)
+
+# Visual Presentation
+## PPT
+
+![ppt](visual_presentation.pptx)
+
+## Tableau
+
+![Tableau](https://public.tableau.com/app/profile/md.abu.yusuf/viz/Customerbaseglobalretailbank/GlobalretailBankDashboard?publish=yes)

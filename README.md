@@ -51,8 +51,8 @@ This is aggregated data, i.e. there are multiple customers per row. Dimensions t
 # Visual Presentation
 ## PPT
 
-![ppt](visual_presentation.pptx)
+[ppt](visual_presentation.pptx)
 
 ## Tableau
 
-![Tableau](https://public.tableau.com/app/profile/md.abu.yusuf/viz/Customerbaseglobalretailbank/GlobalretailBankDashboard?publish=yes)
+[Tableau](https://public.tableau.com/app/profile/md.abu.yusuf/viz/Customerbaseglobalretailbank/GlobalretailBankDashboard?publish=yes)
